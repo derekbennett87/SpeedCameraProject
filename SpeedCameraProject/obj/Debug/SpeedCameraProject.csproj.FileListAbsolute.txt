@@ -1,0 +1,8 @@
+C:\Users\derek\source\repos\SpeedCameraProject\bin\Debug\SpeedCameraProject.exe.config
+C:\Users\derek\source\repos\SpeedCameraProject\bin\Debug\SpeedCameraProject.exe
+C:\Users\derek\source\repos\SpeedCameraProject\bin\Debug\SpeedCameraProject.pdb
+C:\Users\derek\source\repos\SpeedCameraProject\obj\Debug\SpeedCameraProject.csproj.AssemblyReference.cache
+C:\Users\derek\source\repos\SpeedCameraProject\obj\Debug\SpeedCameraProject.csproj.SuggestedBindingRedirects.cache
+C:\Users\derek\source\repos\SpeedCameraProject\obj\Debug\SpeedCameraProject.csproj.CoreCompileInputs.cache
+C:\Users\derek\source\repos\SpeedCameraProject\obj\Debug\SpeedCameraProject.exe
+C:\Users\derek\source\repos\SpeedCameraProject\obj\Debug\SpeedCameraProject.pdb
